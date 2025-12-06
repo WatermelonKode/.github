@@ -1,5 +1,4 @@
 <img width="2850" height="294" alt="Frame 46" src="https://github.com/user-attachments/assets/2ba16fe2-9c13-45a9-b725-c87e63dfcfe5" />
-<br/><br/>
 
 Welcome to **watermelonKode** 🍉, where we craft innovative and inspiring mobile apps with a focus on Kotlin Multiplatform (KMP) and modern mobile development. Our mission is to share knowledge, tools, and insights from real-world app engineering.
 
